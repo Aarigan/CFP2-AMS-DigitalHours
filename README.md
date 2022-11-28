@@ -5,4 +5,5 @@
  Second Digital Clock-> 24 hours
  
  for debutant
-![digitalHours](https://user-images.githubusercontent.com/52601835/204120944-64df1b0b-bb44-429c-8927-d22bf869c5c9.png)
+
+![digitalHours](https://user-images.githubusercontent.com/52601835/204314359-5974982f-ec9b-4cc0-a08b-3ae960cf90e6.png)
