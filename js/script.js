@@ -5,7 +5,7 @@ setInterval( () => {
   let hour = dayTime12.getHours();
   let minutes = dayTime12.getMinutes();
   let seconds = dayTime12.getSeconds();
-  //time 12h
+  //time 12h and AM-PM
   let amPm = hour < 12  ? "AM" : "PM";
   hour = hour > 12 ? hour - 12 : hour;
   hour = hour === 0 ? hour = 12 : hour;
