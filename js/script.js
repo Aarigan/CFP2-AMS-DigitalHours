@@ -14,10 +14,10 @@ setInterval( () => {
   minutes = minutes < 10 ? "0" + minutes : minutes;
   seconds = seconds < 10 ? "0" + seconds : seconds;
 
-  document.getElementById("num12-hr").innerHTML = hour;
-  document.getElementById("num12-mn").innerHTML = minutes;
-  document.getElementById("num12-sc").innerHTML = seconds;
-  document.querySelector(".am-pm").innerHTML = amPm;
+  document.getElementById("num12-hr").textContent = hour;
+  document.getElementById("num12-mn").textContent = minutes;
+  document.getElementById("num12-sc").textContent = seconds;
+  document.querySelector(".am-pm").textContent = amPm;
 
 }, 1000); //1000 milliseconds  = 1s
 

@@ -65,7 +65,7 @@ section .time-text {
 }
 
 .time-text .time-num {
-  font-size: 40px;
+  font-size: 50px;
   font-weight: 600;
   text-shadow: 1px 0 10px #021278;
 }
